@@ -49,3 +49,5 @@ copyright/
 **/javadoc/
 
 
+config.bat
+node_modules
